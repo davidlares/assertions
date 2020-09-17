@@ -1,0 +1,19 @@
+{
+  "name": "assert-library",
+  "version": "1.0.0",
+  "description": "Assert demo built-in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "author": "David E Lares S <david.e.lares@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jest": "^26.4.2",
+    "should": "^13.2.3"
+  }
+}
